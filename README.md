@@ -3,9 +3,6 @@
  <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101820,100:172A35&height=180&section=header&text=ROHAN%20YERNENI&fontSize=42&fontColor=E5E7EB&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%2F%20SYSTEMS%20%2F%20BUILDING&descSize=11&descAlignY=60&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=8FA3AD&center=true&vCenter=true&width=550&lines=Initializing+development+environment...;Building+systems%2C+not+just+interfaces.;Turning+ideas+into+working+software.;while(alive)+%7B+keepBuilding()%3B+%7D" />
 
 </div>
 
