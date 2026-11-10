@@ -1,7 +1,11 @@
 <img src="koi/koi.gif" width="256" alt="My koi fish" />
 
  <div align="center">
+# ROHAN YERNENI
 
+### `building things worth using.`
+
+**[ SOFTWARE ENGINEERING ] · [ SYSTEMS ] · [ BUILDING COOL SHIT ]**
 <!-- HEADER -->
 
 </div>
