@@ -1,1 +1,51 @@
 
+
+name: Commit Trace
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_commit_trace.py"
+      - ".github/workflows/commit-trace.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-trace
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate commit visual
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_commit_trace.py
+
+      - name: Update commit trace
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/commit-trace.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit trace."
+          else
+            git commit -m "chore: refresh commit trace"
+            git push
+          fi
