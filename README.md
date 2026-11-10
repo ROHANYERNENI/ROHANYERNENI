@@ -53,28 +53,7 @@ always_learning
 <!-- COMMIT TRACE -->
 <div align="center">
 
-### `01 / COMMIT_TRACE`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ROHANYERNENI&bg_color=080B10&color=8299A5&line=547889&point=C9D1D9&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY&radius=4&height=280" />
-
-</div>
-
-```bash
-rohan@workstation:~$ git log --oneline --graph -5
-
-* updating systems
-* building anton
-* refining architecture
-* optimizing implementations
-* learning something new
-
-rohan@workstation:~$ git status
-working tree: in progress
-```
-
-<div align="center">
-
-<sub>EVERY COMMIT LEAVES A TRACE.</sub>
 
 </div>
 ### CONNECTION ESTABLISHED
