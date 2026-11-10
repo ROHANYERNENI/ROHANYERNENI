@@ -1,5 +1,5 @@
 <img src="koi/koi.gif" width="256" alt="My koi fish" />
-```md
+
 <div align="center">
 
 # ROHAN YERNENI
@@ -16,7 +16,7 @@
 
 ---
 
-## `01 / TRANSMISSION`
+TRANSMISSION`
 
 ```text
 USER       : Rohan Yerneni
@@ -37,7 +37,7 @@ Currently navigating Java, Python, backend engineering, and the world of intelli
 
 ---
 
-## `02 / CURRENTLY RUNNING`
+CURRENTLY RUNNING`
 
 ```bash
 $ whoami
@@ -62,7 +62,7 @@ $ status
 
 ---
 
-## `03 / TECH STACK`
+TECH STACK`
 
 <div align="center">
 
@@ -72,7 +72,7 @@ $ status
 
 ---
 
-## `04 / THE LAB`
+THE LAB`
 
 **ANTON** — AI-powered code intelligence.
 
@@ -86,21 +86,7 @@ More experiments are running in the background.
 
 ---
 
-## `05 / FREQUENCIES`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ROHANYERNENI&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=AAAAAA" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHANYERNENI&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANYERNENI&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=AAAAAA"/>
-
-</div>
-
----
-
-## `06 / AFTER HOURS`
+AFTER HOURS`
 
 ```text
 [ NOW PLAYING ]
@@ -121,7 +107,7 @@ QUESTIONABLE SLEEP SCHEDULE
 
 ---
 
-## `07 / ESTABLISH CONNECTION`
+STABLISH CONNECTION`
 
 <div align="center">
 
