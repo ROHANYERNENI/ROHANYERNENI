@@ -54,6 +54,22 @@ always_learning
 <div align="center">
 
 
+<!-- COMMIT TRACE -->
+
+<div align="center">
+
+### 01 / COMMIT_TRACE
+
+<img
+  src="./assets/commit-trace.svg"
+  width="100%"
+  alt="Latest GitHub commit activity"
+/>
+
+</div>
+
+<!-- END COMMIT TRACE -->
+
 
 </div>
 ### CONNECTION ESTABLISHED
