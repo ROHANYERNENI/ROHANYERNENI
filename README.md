@@ -50,23 +50,33 @@ always_learning
 <img src="https://skillicons.dev/icons?i=java,python,swift,js,html,css,react,spring,postgres,git,github,docker&theme=dark" />
 
 </div>
-
-### GITHUB TELEMETRY
-
+<!-- COMMIT TRACE -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ROHANYERNENI&show_icons=true&hide_border=true&bg_color=080B10&title_color=8FA3AD&icon_color=8FA3AD&text_color=C9D1D9&count_private=true&rank_icon=github" />
+### `01 / COMMIT_TRACE`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANYERNENI&layout=compact&hide_border=true&bg_color=080B10&title_color=8FA3AD&text_color=C9D1D9" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ROHANYERNENI&bg_color=080B10&color=8299A5&line=547889&point=C9D1D9&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY&radius=4&height=280" />
 
 </div>
 
+```bash
+rohan@workstation:~$ git log --oneline --graph -5
+
+* updating systems
+* building anton
+* refining architecture
+* optimizing implementations
+* learning something new
+
+rohan@workstation:~$ git status
+working tree: in progress
+```
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ROHANYERNENI&bg_color=080B10&color=8FA3AD&line=537C8B&point=C9D1D9&area=true&hide_border=true" />
+<sub>EVERY COMMIT LEAVES A TRACE.</sub>
 
 </div>
-
 ### CONNECTION ESTABLISHED
 
 <div align="center">
