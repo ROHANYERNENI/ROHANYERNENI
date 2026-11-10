@@ -1,131 +1,111 @@
 <img src="koi/koi.gif" width="256" alt="My koi fish" />
 
+
 <div align="center">
 
-# ROHAN YERNENI
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=170&section=header&text=ROHAN%20YERNENI&fontSize=48&fontColor=EAEAEA&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-### `building things worth using.`
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101820,100:00E5FF&height=180&section=header&text=AFTER%20DARK.&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CODE%20%7C%20COFFEE%20%7C%20CHAOS&descAlignY=60&descSize=13" width="100%"/>
+### Software Engineer in the making.
 
-**[ SOFTWARE ENGINEERING ] · [ SYSTEMS ] · [ BUILDING COOL SHIT ]**
+Building things worth using.
 
-`20°  ·  TOKYO STATE OF MIND  ·  02:47 AM`
+<br/>
+
+[ GitHub ](https://github.com/ROHANYERNENI) ·
+[ LinkedIn ](https://www.linkedin.com/in/rohan-yerneni/)
 
 </div>
 
 ---
 
-TRANSMISSION`
+## ABOUT
 
-```text
-USER       : Rohan Yerneni
-LOCATION   : Somewhere between reality and localhost
-STATUS     : Probably debugging something
-FUEL       : Monster Energy
-SOUNDTRACK : Electric guitars & dark synthwave
-OPERATING  : After dark.
-```
+Computer Science student focused on software engineering, intelligent systems, and product development.
 
-I'm a Computer Science student obsessed with technology, software engineering, systems, and building things that actually work.
+Interested in understanding systems deeply, building useful software, and exploring the intersection of engineering and design.
 
-I like understanding how things work under the hood, breaking them, fixing them, and occasionally making something unnecessarily complicated just because it's interesting.
-
-Currently navigating Java, Python, backend engineering, and the world of intelligent developer tools.
-
-**Less talking. More building.**
+Currently learning, experimenting, and building.
 
 ---
 
-CURRENTLY RUNNING`
+## SELECTED PROJECTS
 
-```bash
-$ whoami
-Rohan Yerneni
+<table>
+<tr>
+<td width="50%" valign="top">
 
-$ interests --list
-Software Engineering
-Artificial Intelligence
-Developer Tools
-System Architecture
-Open Source
-Technology & Product Design
+### ANTON
 
-$ current_projects
-ANTON / AI-powered code intelligence
-Expense Tracker / SwiftUI
-Huffman Compression / Python
+AI-powered code intelligence.
 
-$ status
-[██████████████████░░] COMPILING...
-```
+A developer tool designed to understand codebases, generate documentation, identify weaknesses, and recommend improvements.
+
+`Python` `Gemini API` `Git`
+
+</td>
+<td width="50%" valign="top">
+
+### Expense Tracker
+
+A personal finance application built with SwiftUI, focusing on intuitive interactions and thoughtful interface design.
+
+`Swift` `SwiftUI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Huffman Compression
+
+A file compression implementation exploring data structures, binary trees, and encoding algorithms.
+
+`Python` `Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### More in development
+
+Continuously experimenting with new technologies, ideas, and engineering concepts.
+
+`WIP`
+
+</td>
+</tr>
+</table>
 
 ---
 
-TECH STACK`
+## TECHNOLOGIES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,swift,html,css,js,react,spring,postgres,mysql,git,github,vscode,idea,linux&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,swift,js,html,css,react,spring,postgres,mysql,git,github,linux&theme=dark&perline=7"/>
 
 </div>
 
 ---
 
-THE LAB`
-
-**ANTON** — AI-powered code intelligence.
-
-A developer tool designed to understand repositories, generate documentation, identify weaknesses, and suggest code improvements.
-
-**Expense Tracker** — Personal finance, built with SwiftUI.
-
-**Huffman Compression** — Exploring data structures, algorithms, and file compression.
-
-More experiments are running in the background.
-
----
-
-AFTER HOURS`
-
-```text
-[ NOW PLAYING ]
-
-01. Deftones
-02. Metallica
-03. The Strokes
-04. Radiohead
-05. Daft Punk
-
-[ POWER SOURCE ]
-
-MONSTER ENERGY // ULTRA
-ELECTRIC GUITAR
-MIDNIGHT TERMINAL
-QUESTIONABLE SLEEP SCHEDULE
-```
-
----
-
-STABLISH CONNECTION`
+## GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/ROHANYERNENI">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=ROHANYERNENI&show_icons=true&hide_border=true&bg_color=050505&title_color=A6FF00&icon_color=A6FF00&text_color=B8B8B8&include_all_commits=true" width="49%"/>
 
-<a href="https://www.linkedin.com/in/rohan-yerneni/">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANYERNENI&layout=compact&hide_border=true&bg_color=050505&title_color=A6FF00&text_color=B8B8B8" width="49%"/>
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHANYERNENI&hide_border=true&background=050505&ring=A6FF00&fire=A6FF00&currStreakLabel=A6FF00&sideLabels=B8B8B8&dates=777777" width="70%"/>
 
-**"The quieter you become, the more you are able to hear."**
+</div>
 
-<sub>END OF TRANSMISSION // 127.0.0.1</sub>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101820,100:050505&height=100&section=footer"/>
+<div align="center">
+
+<sub>ROHAN YERNENI © 2026</sub>
 
 </div>
 ```
