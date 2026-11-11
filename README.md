@@ -1,7 +1,8 @@
 <img src="koi/koi.gif" width="256" alt="My koi fish" />
 
  <div align="center">
-ROHAN YERNENI 
+
+### `R0HAN YERNEN1`
 
 ### `building things worth using.`
 
