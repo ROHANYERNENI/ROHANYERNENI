@@ -26,14 +26,24 @@ always_learning
 ### SYSTEM INFORMATION
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│  USER       : ROHAN YERNENI                              │
-│  ROLE       : SOFTWARE DEVELOPER                         │
-│  LOCATION   : INDIA                                      │
-│  CURRENTLY  : Building ANTON                             │
-│  INTERESTS  : Backend / Systems / Developer Tools        │
-│  STATUS     : COMPILING...                               │
-└──────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  root@rohan ~ % whoami                               │
+│                                                      │
+│  rohan-yerneni                                       │
+│  ├── role       : software developer                 │
+│  ├── location   : india                              │
+│  ├── building   : ANTON                              │
+│  ├── interests  : systems, full-stack, tooling       │
+│  ├── languages  : python, java, swift, javascript    │
+│  │                C, C++                             │
+│  │                                                   │
+│  └── status     : actively_building                  │
+│                                                      │
+│  [ PROCESS RUNNING ]                                 │
+│  waiting for next breakthrough_                      │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 ### CURRENT OPERATIONS
